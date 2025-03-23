@@ -22,7 +22,7 @@ function Footer() {
         <Box as="li">
           <IconButton
             as="a"
-            href="https://github.com/shuuuu10-01"
+            href="https://github.com/suu-u522"
             target="_blank"
             aria-label="Github Link"
             color="primary"
